@@ -1,0 +1,14 @@
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\bin\Debug\netcoreapp3.1\Designpattern_labb3.exe
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\bin\Debug\netcoreapp3.1\Designpattern_labb3.deps.json
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\bin\Debug\netcoreapp3.1\Designpattern_labb3.runtimeconfig.json
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\bin\Debug\netcoreapp3.1\Designpattern_labb3.runtimeconfig.dev.json
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\bin\Debug\netcoreapp3.1\Designpattern_labb3.dll
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\bin\Debug\netcoreapp3.1\Designpattern_labb3.pdb
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\obj\Debug\netcoreapp3.1\Designpattern_labb3.csproj.AssemblyReference.cache
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\obj\Debug\netcoreapp3.1\Designpattern_labb3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\obj\Debug\netcoreapp3.1\Designpattern_labb3.AssemblyInfoInputs.cache
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\obj\Debug\netcoreapp3.1\Designpattern_labb3.AssemblyInfo.cs
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\obj\Debug\netcoreapp3.1\Designpattern_labb3.csproj.CoreCompileInputs.cache
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\obj\Debug\netcoreapp3.1\Designpattern_labb3.dll
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\obj\Debug\netcoreapp3.1\Designpattern_labb3.pdb
+C:\Users\Elijas\source\repos\Egna arbeten\Designpattern_labb3\Designpattern_labb3\obj\Debug\netcoreapp3.1\Designpattern_labb3.genruntimeconfig.cache
